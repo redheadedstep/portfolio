@@ -1,6 +1,6 @@
 ## daemons.png
 
-![alt text](https://github.com/redheadedstep/portfolio/BuxBux/screenshots/daemons.png "Daemons Dashboard page")
+![alt text](https://github.com/redheadedstep/portfolio/blob/master/BuxBux/screenshots/daemons.png "Daemons Dashboard page")
 
 ## link search.png
 
